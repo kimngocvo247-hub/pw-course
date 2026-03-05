@@ -1,0 +1,4 @@
+git init: use this one to initiate git in our computer
+git add <file_name>: use this one to add a file to a git area: e.g we have a file called Test.txt, using "git add <file_name> to add that file from the working directory are to the staging area
+git add . : use this one add all files
+git commit -m "message" : use this one to add the file to the repository area
